@@ -9,9 +9,9 @@ The code in Connect Four on the Terminal will:
 - Run on the terminal with only a few minute set up
 
 ## Preparation
-Fork or download this repository
-From the command line run `npm install` or `npm install numpy`.
-From the command line run `python game.py`
+1. Fork or download this repository
+1. From the command line run `npm install` or `npm install numpy`
+1. From the command line run `python game.py`
 
 ## Playing the game
 Rotating turns, type a number from 0 to 6 to place a peice.
